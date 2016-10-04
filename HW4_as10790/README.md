@@ -1,0 +1,8 @@
+## Assignment 2: Literature choices of statistical tests
+
+For this assignment I worked with Francis Ko and Anastasia Shegay to find scientific journals and identify information about the statistical anaylses performed. 
+  
+| Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper | 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Path Analysis	| 1, Whether a household had experienced maternal death | dichotomous | 2, Annual Income and Expenditure per Capita in the Household| continuous | 1, maternal age | continuous (could also be categoridcal) | Does maternal death impact household economic status after the event? | Maternal death either increases or does not change annual income and expenditure per capita | 0.041,0.001 | [Impact of Maternal Death on Household Economy in Rural China: A Prospective Path Analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134756) |
+*t*-test	| 3, Gender, age, educational level | dichotomous, categorical | 1, Cognitive score| continuous | 1, Normal cognitive ability | continuous | 	Do the cognitive functions of the healthy elderly change over time? | Cognitive function in the healthy elderly declines over time | 0.05 | [Does Cognitive Function Increase over Time in the Healthy Elderly?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078646) |
