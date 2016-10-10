@@ -1,3 +1,5 @@
+I first worked through these assignments on my own, and then discussed with the following classmates: Aaron, Achilles, Priyanshi and Vishwajeet. In particular, I needed some help with plotting and visualizations in Python. 
+
 ## Assignment 3: Practice formulating the null hypothesis
 
 ### 1. Do diets help lose more fat than the exercise?
