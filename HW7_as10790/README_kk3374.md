@@ -1,6 +1,6 @@
 ![](anastasiaplot.png)
 
-Hi Anastasia, great plot! I think that differentiating the grades by colors is an incredibly useful visual aid. The title, and axis labels also provide a succinct summary of what you are visualizing. 
+Hi Anastasia, great plot! I think that differentiating the grades by colors is an incredibly useful visual aid. The title and axis labels also provide a succinct summary of what you are visualizing. 
 
 A couple of thoughts:
 I think adding a legend would be helpful so that it is clear which color is associated with which grade. 
